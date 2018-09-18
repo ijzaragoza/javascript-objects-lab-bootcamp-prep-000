@@ -1,1 +1,3 @@
-  var object = {recipes}
+  var Objects = {
+    recipes: 'object'
+  }
